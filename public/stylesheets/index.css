@@ -1,0 +1,22 @@
+.perfil {
+    max-width: 600px;
+    max-height: auto;
+}
+
+body {
+    background-color: #004466
+    ;
+}
+
+h1 {
+    margin-left: 18%;
+    color: #0099E6;
+    
+}
+
+#about{
+    background-color: #006699; 
+    max-width: 50%; 
+    margin-top: 50px;
+    padding: 20px;
+}
